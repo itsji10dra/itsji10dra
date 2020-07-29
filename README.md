@@ -2,7 +2,7 @@
 
 If you’re on the hunt for a professional programmer with loads of experience, you’ve come to the right place. Since 2013, I’ve been providing exceptional mobile development services to clients across the globe. I help clients solve the design and technical issues that stand in the way between the idea and materialization of their professional outcome. 📈
 
-Feel free to connect me on social platforms from [here](https://itsji10dra.com). 📲
+Feel free to connect me on social platforms from <a href="https://itsji10dra.com/" target="_blank">here</a>. 📲
 
 Don't forget to have a look at my sample code. 👨🏻‍💻
 
