@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hello World! 👋🏻
+
+If you’re on the hunt for a professional programmer with loads of experience, you’ve come to the right place. Since 2013, I’ve been providing exceptional mobile development services to clients across the globe. I help clients solve the design and technical issues that stand in the way between the idea and materialization of their professional outcome. 📈
+
+Feel free to connect me on social platforms from [here](https://itsji10dra.com). 📲
+
+Don't forget to have a look at my sample code. 👨🏻‍💻
+
+Cheers!! 🍻
 
 <!--
 **itsji10dra/itsji10dra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
